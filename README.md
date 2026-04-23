@@ -23,8 +23,7 @@ Frontend Developer (Beginner)
 GitHub: https://github.com/gavademonali9-hue
 
 # Screenshots:-
-![About recipes]
-https://recepeis.vercel.app/
+![About recipes](Screenshot-Assi4G.png)
 
 # contributors:-
 <a href="https://github.com/gavademonali9-hue/My-First-Project/graphs/contributors">
