@@ -23,11 +23,11 @@ Frontend Developer (Beginner)
 GitHub: https://github.com/gavademonali9-hue
 
 # Screenshots:-
-![About recipes](Screenshot-Assi4G.png)
+![About recipes][def] [def]:Screenshot-Assi4G.png
 
 # contributors:-
 <a href="https://github.com/gavademonali9-hue/My-First-Project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gavademonali9-hue/My-First-Project" />
 </a>
 
-[def]: Screenshot-Assi4G.png
+[def]: )
